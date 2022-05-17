@@ -1,3 +1,7 @@
+#Project pic
+
+![memeGeneratorPic](https://user-images.githubusercontent.com/49163212/168815353-85cc0825-8b88-430c-826c-c35a7344a78d.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
